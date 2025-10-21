@@ -1,4 +1,4 @@
-# Blockchain-Based Fair Trade Certification Platform
+me.# Blockchain-Based Fair Trade Certification Platform
 
 A decentralized platform for verifying and promoting fair trade practices in global supply chains with transparent producer compensation and ethical sourcing verification.
 
